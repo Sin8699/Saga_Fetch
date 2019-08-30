@@ -1,0 +1,12 @@
+img{
+    width: 200px;
+    height: 200px;
+}
+
+button{
+    float:right;
+}
+
+.data{
+    float: left;
+}
